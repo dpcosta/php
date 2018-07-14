@@ -15,7 +15,9 @@ IMC = peso / (altura * altura)
 
 ## Diagnóstico
 
-| Condição | Mensagem | Cor | 
-| IMC entre 20 e 24,99 | Peso é normal.  | Verde  | 
-| IMC entre 25 e 29,99 | Em sobrepeso.  | Amarelo  | 
-| IMC acima de 30 | Em obesidade. | Vermelho | 
+| Condição             | Mensagem         | Cor      |
+|----------------------|------------------|----------|
+| IMC entre 20 e 24,99 | Peso é normal.   | Verde    |
+| IMC entre 25 e 29,99 | Em sobrepeso.    | Amarelo  |
+| IMC acima de 30      | Em obesidade.    | Vermelho |
+
