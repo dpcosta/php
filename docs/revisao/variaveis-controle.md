@@ -7,10 +7,11 @@ IMC = peso / (altura * altura)
 
 ## Exemplos para teste
 
-| Peso (kg) | Altura (cm) | IMC | Resultado |
-| 80 | 190 | 22,16 | Normal |
-| 93 | 181 | 28,39 | Sobrepeso | 
-| 87 | 162 | 33,15 | Obeso  |
+| Peso (kg) | Altura (cm) | IMC   | Resultado |
+|-----------|-------------|-------|-----------|
+| 80        | 190         | 22,16 | Normal    |
+| 93        | 181         | 28,39 | Sobrepeso |
+| 87        | 162         | 33,15 | Obeso     |
 
 ## Diagnóstico
 
